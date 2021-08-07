@@ -9,3 +9,4 @@ spec:
   repo: 'https://github.com/rancher-lab/fleet-tls'
   targets:
     - clusterGroup: all
+
