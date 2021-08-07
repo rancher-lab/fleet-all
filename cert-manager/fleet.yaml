@@ -8,3 +8,6 @@ helm:
   
   values:
     installCRDs: true
+
+kustomize:
+  dir: .
